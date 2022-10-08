@@ -1716,6 +1716,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ Nelson
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
